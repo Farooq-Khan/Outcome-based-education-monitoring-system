@@ -1,0 +1,121 @@
+
+    #course-container{
+        text-align:center;
+    }
+	
+	.courses{
+		width:80%;
+		height:auto;
+		margin-left:10%;
+	
+	}
+	.courses table{
+		width:100%;
+	}
+	
+	td {
+		padding:0.5%;
+	}
+	  
+	
+	 #container{
+            width:60%;
+        }
+	button{
+		color:#FFF;
+		font-weight:bold
+		}
+
+	.teacher{
+		width:30.8%;
+		 height:10%;
+		  background:#09C;
+		   border:2px solid #009;
+		    border-radius: 12px;
+	}
+	.teacher a{
+		text-decoration:none;
+		color:#FFF;
+		display:block;}
+	.teacher a:hover{
+		background-color:#009;
+		border-radius: 12px;
+		}
+
+	.btn{
+	height:20px;
+	width:6%;
+	border:0px;
+		}
+	#colors{
+		margin-top:1%;}
+	#colors h3{
+		display:inline-block;
+	}
+   #progresstable td:nth-child(4){
+   	width: 50%;
+   }
+   #progresstable th{
+   	border: 2px solid blue;
+   	padding: 0.3%;
+   	background-color: lightblue;
+   	font-weight: bold;
+   	color: blue;
+   }
+   #progresstable tr td{
+   	border: 2px solid #2674d2;
+   	height: 100px;
+   }
+   #progresstable tr:hover{
+   	background-color:lightblue;
+   	border: 1px solid blue;
+   }
+   #progresstable a {
+   	text-decoration: none;
+   	color:black;
+   }
+
+   .btn {
+   	display: inline-block;
+   	/*margin-left: 1%;*/
+   	border-radius: 12px;
+   	 	width: 10%;
+   	 	height: 50px;
+   	 	color: black;
+   	 	font-weight: bold;
+   }
+
+   #student{
+   	width: 80%;
+   	margin-top: 3%;
+   	margin-left: 10%;
+   	padding: 1%;
+   }
+
+   #ploTable{
+   	width: 100%;
+   }
+   #ploTable td{
+   	border: 2px solid lightblue;
+   	padding:10px;
+
+   }
+
+   #ploTable th{
+   	border: 2px solid black;
+   	padding:5px;
+      background:rgba(0,0,0,0.8);
+      color: white;
+   }
+   #ploTable a {
+   	display: block;
+   	text-decoration: none;
+   }
+
+   #ploTable tr:hover{
+   	background: lightblue;
+   	border: 2px solid blue;
+   }
+
+ 
+   
